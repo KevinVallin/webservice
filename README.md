@@ -1,5 +1,22 @@
-# webservice
-## Objectif 
-Constuire une API qui prend en entrée : Un mois et une année puis en resortir une interface de calendrier 
+# webservice-client
 
-Sinon pas assez claire 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+## API setups
+```
+npm install express
+```
+```
+npm install cors
+```
+```
+node app.js
+```
